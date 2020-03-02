@@ -46,16 +46,16 @@ kaggle：https://www.kaggle.com/competitions <br>
 ## 5. 推荐网课链接
 课程名称 | 链接
 ---|---
-Andrew Ng斯坦福机器学习课程 | https://www.coursera.org/learn/machine-learning 
+Andrew Ng斯坦福机器学习课程 | https://www.coursera.org/learn/machine-learning
+斯坦福图机器学习 |  http://web.stanford.edu/class/cs224w/
 Grokking Deep Learning | https://livebook.manning.com/#!/book/grokking-deep-learning <br> https://github.com/iamtrask/Grokking-Deep-Learning                          
 Machine Learning Yearning | https://deeplearning-ai.github.io/machine-learning-yearning-cn/
 MIT面向生命科学的深度学习课程 | https://mit6874.github.io/
 中国大学MOOC | http://www.icourse163.org/course/BIT-1449601164 
 多伦多大学机器学习 | https://amfarahmand.github.io/csc311/ 
-交互式线性代数 |  
-李宏毅机器学习 |  
-邱锡鹏深度学习 |  
-图机器学习 |  
+交互式线性代数 |  http://textbooks.math.gatech.edu/ila/index.html
+李宏毅机器学习 |  https://github.com/datawhalechina/leeml-notes
+邱锡鹏深度学习 |  https://nndl.github.io/
 
 ## 6. 联系方式
 刘琦教授 email：qiliu@tongji.edu.cn
