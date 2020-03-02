@@ -13,7 +13,7 @@
 周志华 机器学习 <br>
 李航 统计学习 第二版 <br>
 ### 英文教材
-A Concise Introduction to Machine Learning <br>
+[A Concise Introduction to Machine Learning]() <br>
 The Matrix Cookbook <br>
 Mathematics for Machine Learning <br>
 Pattern classification <br>
