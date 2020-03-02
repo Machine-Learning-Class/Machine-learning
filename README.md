@@ -47,8 +47,7 @@ kaggle：https://www.kaggle.com/competitions <br>
 课程名称 | 链接
 ---|---
 Andrew Ng斯坦福机器学习课程 | https://www.coursera.org/learn/machine-learning 
-Grokking Deep Learning | https://livebook.manning.com/#!/book/grokking-deep-learning <br>
-                         https://github.com/iamtrask/Grokking-Deep-Learning 
+Grokking Deep Learning | https://livebook.manning.com/#!/book/grokking-deep-learning <br> https://github.com/iamtrask/Grokking-Deep-Learning                          
 Machine Learning Yearning | https://deeplearning-ai.github.io/machine-learning-yearning-cn/
 MIT面向生命科学的深度学习课程 | https://mit6874.github.io/
 中国大学MOOC | http://www.icourse163.org/course/BIT-1449601164 
