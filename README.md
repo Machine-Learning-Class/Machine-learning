@@ -1,8 +1,8 @@
 # 面向生命科学的机器学习理论与方法课程
-授课教师： 刘琦教授
+授课教师： 刘琦 教授
 ## 1. 课程简介 <br>
 
-0.绪论            
+0.绪论-机器学习概述  <br>      
 1.
 2.
 3。
@@ -23,7 +23,7 @@ Data Mining <br>
 ## 3. 教学大纲
 课时 | 内容 | 课件 | 阅读材料 | 作业
 ---|---|---|---|---
-课时-01|
+课时-01| 绪论 | 课程1.pdf | 斯坦福大学-机器学习课程材料 | 
 课时-02|
 课时-03|
 课时-04|
@@ -45,7 +45,7 @@ kaggle：https://www.kaggle.com/competitions <br>
 
 ## 5. 推荐网课链接
 
-Andrew ng stanford ML course <br>
+Andrewing stanford ML course <br>
 Grokking Deep Learning <br>
 Machine Learning Yearning <br>
 MIT <br>
