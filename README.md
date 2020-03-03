@@ -15,11 +15,11 @@
 
 ### 英文教材
 [英文教材合集下载]
-* A Concise Introduction to Machine Learning <br>
-* Data Mining Practical Machine Learning Tools and Techniques 3rd Edition <br>
-* Mathematics for Machine Learning <br>
-* Pattern Recognition 4th Edition <br>
-* The Matrix Cookbook <br>
+* 《A Concise Introduction to Machine Learning》 <br>
+* 《Data Mining Practical Machine Learning Tools and Techniques 3rd Edition》 <br>
+* 《Mathematics for Machine Learning》 <br>
+* 《Pattern Recognition 4th Edition》 <br>
+* 《The Matrix Cookbook》 <br>
 
 ## 3. 教学大纲
 课时 | 内容 | 课件 | 阅读材料 | 作业
@@ -29,9 +29,9 @@
 课时-03| 线性回归 | 课件3 | 斯坦福Andrew课程-阅读材料 | 课程3-作业
 课时-04| 逻辑回归与正则化 | 课件4 | 斯坦福Andrew课程-阅读材料 | 课程4-作业
 课时-05| 分类器评估 | 课件5 | 斯坦福Andrew课程-阅读材料4 <br> BIC Scores |
-课时-06|
-课时-07|
-课时-08|
+课时-06| 贝叶斯 | 课件6 | 斯坦福Andrew课程-阅读材料 <br> NBT Primer阅读材料 <br> Nature Review阅读材料 <br> 香港科技大学阅读材料
+课时-07| 决策树 | 课件7 | NBT Primer阅读材料
+课时-08| 
 课时-09|
 课时-10|
 课时-11|
