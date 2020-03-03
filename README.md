@@ -42,7 +42,7 @@ kaggle：https://www.kaggle.com/competitions <br>
 ## 5. 推荐网课链接
 课程名称 | 课程链接
 ---|---
-Andrew Ng斯坦福机器学习课程 | https://www.coursera.org/learn/machine-learning
+斯坦福Andrew Ng机器学习课程 | https://www.coursera.org/learn/machine-learning
 斯坦福图机器学习 |  http://web.stanford.edu/class/cs224w/
 Grokking Deep Learning | https://livebook.manning.com/#!/book/grokking-deep-learning <br> https://github.com/iamtrask/Grokking-Deep-Learning                          
 Machine Learning Yearning | https://deeplearning-ai.github.io/machine-learning-yearning-cn/
