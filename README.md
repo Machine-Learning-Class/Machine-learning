@@ -10,11 +10,11 @@
 * [《统计学习方法》第二版 李航](https://item.jd.com/47384022706.html) <br>
 
 ### 英文教材
-* [*A Concise Introduction to Machine Learning*](英文教材/A Concise Introduction to Machine Learning) <br>
-* [*Data Mining Practical Machine Learning Tools and Techniques* 3rd Edition](英文教材/Data Mining Practical Machine Learning Tools and Techniques 3rd Edition) <br>
-* [*Mathematics for Machine Learning*](英文教材/Mathematics for Machine Learning) <br>
-* [*Pattern Recognition* 4th Edition](英文教材/Pattern Recognition 4th Edition) <br>
-* [*The Matrix Cookbook*](英文教材/The Matrix Cookbook) <br>
+* [*A Concise Introduction to Machine Learning*](English Textbook/A Concise Introduction to Machine Learning) <br>
+* [*Data Mining Practical Machine Learning Tools and Techniques* 3rd Edition](English Textbook/Data Mining Practical Machine Learning Tools and Techniques 3rd Edition) <br>
+* [*Mathematics for Machine Learning*](English Textbook/Mathematics for Machine Learning) <br>
+* [*Pattern Recognition* 4th Edition](English Textbook/Pattern Recognition 4th Edition) <br>
+* [*The Matrix Cookbook*](English Textbook/The Matrix Cookbook) <br>
 
 ## 3. 教学大纲
 课时 | 内容 | 课件 | 阅读材料 | 作业
