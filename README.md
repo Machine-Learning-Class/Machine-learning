@@ -24,8 +24,8 @@
 ## 3. 教学大纲
 课时 | 内容 | 课件 | 阅读材料 | 作业
 ---|---|---|---|---
-课时-01| 绪论 | 课程1.pdf | 斯坦福大学-机器学习课程材料 <br> NBT Primer材料 | 
-课时-02|
+课时-01| 绪论 | 课件1 | 斯坦福Andrew课程-阅读材料 <br> NBT Primer阅读材料 | 
+课时-02| 线性代数与概率论 | 课件2 | 斯坦福Andrew课程-阅读材料 <br> NBT Primer阅读材料 <br> Nature Methods阅读材料 <br> 其他阅读材料 |
 课时-03|
 课时-04|
 课时-05|
@@ -45,7 +45,7 @@ Dream Challenge: http://dreamchallenges.org/ <br>
 kaggle：https://www.kaggle.com/competitions <br>
 
 ## 5. 推荐网课链接
-课程名称 | 链接
+课程名称 | 课程链接
 ---|---
 Andrew Ng斯坦福机器学习课程 | https://www.coursera.org/learn/machine-learning
 斯坦福图机器学习 |  http://web.stanford.edu/class/cs224w/
