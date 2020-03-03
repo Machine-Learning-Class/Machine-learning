@@ -10,8 +10,9 @@
 ## 2. 课程教材
 
 ### 中文教材
-周志华 机器学习 <br>
-李航 统计学习 第二版 <br>
+[《机器学习》周志华](https://item.jd.com/11867803.html) <br>
+[《统计学习方法》第二版 李航](https://item.jd.com/47384022706.html) <br>
+
 ### 英文教材
 [英文教材合集下载]
 * A Concise Introduction to Machine Learning <br>
