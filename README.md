@@ -12,9 +12,9 @@
 ### 英文教材
 * [*A Concise Introduction to Machine Learning*](English_Textbook/A-Concise-Introduction-to-Machine-Learning.zip) <br>
 * [*Data Mining Practical Machine Learning Tools and Techniques* 3rd Edition](English_Textbook/Data-Mining-Practical-Machine-Learning-Tools-and-Techniques-3rd-Edition.zip) <br>
-* [*Mathematics for Machine Learning*](English_Textbook/Mathematics-for-Machine-Learning) <br>
+* [*Mathematics for Machine Learning*](English_Textbook/Mathematics-for-Machine-Learning.zip) <br>
 * [*Pattern Recognition* 4th Edition](English_Textbook/Pattern-Recognition-4th-Edition.zip) <br>
-* [*The Matrix Cookbook*](English_Textbook/The-Matrix-Cookbook) <br>
+* [*The Matrix Cookbook*](English_Textbook/The-Matrix-Cookbook.zip) <br>
 
 ## 3. 教学大纲
 课时 | 内容 | 课件 | 阅读材料 | 作业
