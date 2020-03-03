@@ -19,21 +19,21 @@
 ## 3. 教学大纲
 课时 | 内容 | 课件 | 阅读材料 | 作业
 ---|---|---|---|---
-课时-1| 绪论 | 课件1 | 斯坦福Andrew课程-阅读材料 <br> NBT Primer阅读材料 | 
-课时-2| 线性代数与概率论 | 课件2 | 斯坦福Andrew课程-阅读材料 <br> NBT Primer阅读材料 <br> Nature Methods阅读材料 <br> 其他阅读材料 |
-课时-3| 线性回归 | 课件3 | 斯坦福Andrew课程-阅读材料 | 课程3-作业
-课时-4| 逻辑回归与正则化 | 课件4 | 斯坦福Andrew课程-阅读材料 | 课程4-作业
-课时-5| 分类器评估 | 课件5 | 斯坦福Andrew课程-阅读材料 <br> BIC Scores |
-课时-6| 贝叶斯 | 课件6 | 斯坦福Andrew课程-阅读材料 <br> NBT Primer阅读材料 <br> Nature Review阅读材料 <br> 香港科技大学阅读材料
-课时-7| 决策树 | 课件7 | NBT Primer阅读材料
-课时-8| 基于实例的学习 |课件8 | 香港科技大学阅读材料
-课时-9| 支持向量机(SVM) | 课件9 | 斯坦福Andrew课程-阅读材料 <br> NBT Primer阅读材料 <br> 其他阅读材料　| 课程9-作业
-课时-10| 神经网络 | 课件10 | 斯坦福Andrew课程-阅读材料 | 课程10-作业
-课时-11| 深度学习 | 课件11 | Nature Review阅读材料 <br> Nature Genetics阅读材料 <br> NBT Primer阅读材料 <br> 其他阅读材料
-课时-12| 聚类 | 课件12 | 斯坦福Andrew课程-阅读材料 <br> NBT Primer阅读材料 <br> Nature Methods阅读材料 <br> 其他阅读材料
-课时-13| 降维 | 课件13 | 斯坦福Andrew课程-阅读材料 <br> NBT Primer阅读材料 <br> Nature Neuroscience阅读材料 | 课程13-作业
-课时-14| 异常检测与推荐系统　| 课件14 | 阅读材料 | 课程14-作业
-课时-15| 机器学习的应用，系统设计 <br> 大规模机器学习 <br>集成学习 | 课件15
+课时-1| 绪论 | [课件1](课件/课件1.zip) | 斯坦福Andrew课程-阅读材料 <br> NBT Primer阅读材料 | 
+课时-2| 线性代数与概率论 | [课件2](课件/课件2.zip) | 斯坦福Andrew课程-阅读材料 <br> NBT Primer阅读材料 <br> Nature Methods阅读材料 <br> 其他阅读材料 |
+课时-3| 线性回归 | [课件3](课件/课件3.zip) | 斯坦福Andrew课程-阅读材料 | 课程3-作业
+课时-4| 逻辑回归与正则化 | [课件4](课件/课件4.zip) | 斯坦福Andrew课程-阅读材料 | 课程4-作业
+课时-5| 分类器评估 | [课件5](课件/课件5.zip) | 斯坦福Andrew课程-阅读材料 <br> BIC Scores |
+课时-6| 贝叶斯 | [课件6](课件/课件6.zip) | 斯坦福Andrew课程-阅读材料 <br> NBT Primer阅读材料 <br> Nature Review阅读材料 <br> 香港科技大学阅读材料
+课时-7| 决策树 | [课件7](课件/课件7.zip) | NBT Primer阅读材料
+课时-8| 基于实例的学习 |[课件8](课件/课件8.zip) | 香港科技大学阅读材料
+课时-9| 支持向量机(SVM) | [课件9](课件/课件9.zip) | 斯坦福Andrew课程-阅读材料 <br> NBT Primer阅读材料 <br> 其他阅读材料　| 课程9-作业
+课时-10| 神经网络 | [课件10](课件/课件10.zip) | 斯坦福Andrew课程-阅读材料 | 课程10-作业
+课时-11| 深度学习 | [课件11](课件/课件11.zip) | Nature Review阅读材料 <br> Nature Genetics阅读材料 <br> NBT Primer阅读材料 <br> 其他阅读材料
+课时-12| 聚类 | [课件12](课件/课件12.zip) | 斯坦福Andrew课程-阅读材料 <br> NBT Primer阅读材料 <br> Nature Methods阅读材料 <br> 其他阅读材料
+课时-13| 降维 | [课件13](课件/课件13.zip) | 斯坦福Andrew课程-阅读材料 <br> NBT Primer阅读材料 <br> Nature Neuroscience阅读材料 | 课程13-作业
+课时-14| 异常检测与推荐系统　| [课件14](课件/课件14.zip) | 阅读材料 | 课程14-作业
+课时-15| 机器学习的应用，系统设计 <br> 大规模机器学习 <br>集成学习 | [课件15](课件/课件15.zip)
 
 ## 4. 机器学习竞赛网站
 Dream Challenge: http://dreamchallenges.org/ <br>
