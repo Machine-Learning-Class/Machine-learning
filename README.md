@@ -15,11 +15,11 @@
 
 ### 英文教材
 [英文教材合集下载]
-* *A Concise Introduction to Machine Learning <br>
+* *A Concise Introduction to Machine Learning* <br>
 * *Data Mining Practical Machine Learning Tools and Techniques* 3rd Edition <br>
-* *Mathematics for Machine Learning <br>
-* *Pattern Recognition 4th Edition <br>
-* *The Matrix Cookbook <br>
+* *Mathematics for Machine Learning* <br>
+* *Pattern Recognition 4th Edition* <br>
+* *The Matrix Cookbook* <br>
 
 ## 3. 教学大纲
 课时 | 内容 | 课件 | 阅读材料 | 作业
