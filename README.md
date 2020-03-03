@@ -11,10 +11,10 @@
 
 ### 英文教材
 * [*A Concise Introduction to Machine Learning*](English_Textbook/A-Concise-Introduction-to-Machine-Learning.zip) <br>
-* [*Data Mining Practical Machine Learning Tools and Techniques* 3rd Edition](https://github.com/2020-Machine-Learning-Class/2020-Machine-learning-Coursera/tree/master/English Textbook/Data Mining Practical Machine Learning Tools and Techniques 3rd Edition) <br>
-* [*Mathematics for Machine Learning*](https://github.com/2020-Machine-Learning-Class/2020-Machine-learning-Coursera/tree/master/English Textbook/Mathematics for Machine Learning) <br>
-* [*Pattern Recognition* 4th Edition](https://github.com/2020-Machine-Learning-Class/2020-Machine-learning-Coursera/tree/master/English Textbook/Pattern Recognition 4th Edition) <br>
-* [*The Matrix Cookbook*](https://github.com/2020-Machine-Learning-Class/2020-Machine-learning-Coursera/tree/master/English Textbook/The Matrix Cookbook) <br>
+* [*Data Mining Practical Machine Learning Tools and Techniques* 3rd Edition](English_Textbook/Data-Mining-Practical-Machine-Learning-Tools-and-Techniques-3rd-Edition.zip) <br>
+* [*Mathematics for Machine Learning*](English_Textbook/Mathematics-for-Machine-Learning) <br>
+* [*Pattern Recognition* 4th Edition](English_Textbook/Pattern-Recognition-4th-Edition.zip) <br>
+* [*The Matrix Cookbook*](English_Textbook/The-Matrix-Cookbook) <br>
 
 ## 3. 教学大纲
 课时 | 内容 | 课件 | 阅读材料 | 作业
