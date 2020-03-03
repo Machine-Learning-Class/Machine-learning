@@ -10,7 +10,7 @@
 * [《统计学习方法》第二版 李航](https://item.jd.com/47384022706.html) <br>
 
 ### 英文教材
-* [*A Concise Introduction to Machine Learning*](https://github.com/2020-Machine-Learning-Class/2020-Machine-learning-Coursera/tree/master/English Textbook/A Concise Introduction to Machine Learning) <br>
+* [*A Concise Introduction to Machine Learning*](English_Textbook/A\ Concise Introduction\ to\ Machine\ Learning) <br>
 * [*Data Mining Practical Machine Learning Tools and Techniques* 3rd Edition](https://github.com/2020-Machine-Learning-Class/2020-Machine-learning-Coursera/tree/master/English Textbook/Data Mining Practical Machine Learning Tools and Techniques 3rd Edition) <br>
 * [*Mathematics for Machine Learning*](https://github.com/2020-Machine-Learning-Class/2020-Machine-learning-Coursera/tree/master/English Textbook/Mathematics for Machine Learning) <br>
 * [*Pattern Recognition* 4th Edition](https://github.com/2020-Machine-Learning-Class/2020-Machine-learning-Coursera/tree/master/English Textbook/Pattern Recognition 4th Edition) <br>
