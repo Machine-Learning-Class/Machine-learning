@@ -26,7 +26,7 @@
 课时 | 内容 | 课件 | 阅读材料 | 作业
 ---|---|---|---|---
 课时-1| 绪论 | [课件1](课件/课件1.zip) | [斯坦福Andrew ng课程-阅读材料](阅读材料/课程1-阅读材料/斯坦福Andrew课程-阅读材料.zip) <br> [Nature-Reviews-Genetics-阅读材料](阅读材料/课程1-阅读材料/Nature-Review-阅读资料.zip) <br> [美国医学学会杂志-阅读资料](阅读材料/课程1-阅读材料/美国医学学会杂志-阅读资料.zip) <br>[机器学习学术人物关系](阅读材料/课程1-阅读材料/机器学习人物关系.zip)<br>[其他阅读材料](阅读材料/课程1-阅读材料/其他阅读材料.zip) | 
-课时-2| 线性代数与概率论 | [课件2](课件/课件2.zip) | [斯坦福Andrew ng课程-阅读材料](阅读材料/课程2-阅读材料/斯坦福Andrew课程-阅读材料.zip) <br> [NBT Primer阅读材料](阅读材料/课程2-阅读材料/NBT-Primer阅读材料.zip) <br> [Nature Methods阅读材料](阅读材料/课程2-阅读材料/Nature-Methods阅读材料.zip) <br> [其他阅读材料](阅读材料/课程2-阅读材料/其他阅读材料.zip) <br>[一个awesome统计可视化网站](https://www.automaticstatistician.com/index/)|
+课时-2| 线性代数与概率论一堂课总结 | [课件2](课件/课件2.zip) | [斯坦福Andrew ng课程-阅读材料](阅读材料/课程2-阅读材料/斯坦福Andrew课程-阅读材料.zip) <br> [NBT Primer阅读材料](阅读材料/课程2-阅读材料/NBT-Primer阅读材料.zip) <br> [Nature Methods阅读材料](阅读材料/课程2-阅读材料/Nature-Methods阅读材料.zip) <br> [其他阅读材料](阅读材料/课程2-阅读材料/其他阅读材料.zip) <br>[一个awesome统计可视化网站](https://www.automaticstatistician.com/index/)|
 课时-3| 线性回归 | [课件3](课件/课件3.zip) | [斯坦福Andrew ng课程-阅读材料](阅读材料/课程3-阅读材料/斯坦福Andrew课程-阅读材料.zip) | [课程3-作业](作业/课程3-作业.zip)
 课时-4| 逻辑回归与正则化 | [课件4](课件/课件4.zip) | [斯坦福Andrew ng课程-阅读材料](阅读材料/课程4-阅读材料/斯坦福Andrew课程-阅读材料.zip) | [课程4-作业](作业/课程4-作业.zip)
 课时-5| 模型评估 | [课件5](课件/课件5.zip) | [斯坦福Andrew ng课程-阅读材料](阅读材料/课程5-阅读材料/斯坦福Andrew课程-阅读材料.zip) <br> [BIC Scores](阅读材料/课程5-阅读材料/BIC_Scores.zip) |
