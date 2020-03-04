@@ -16,8 +16,8 @@
 ### 英文教材
 * [*A Concise Introduction to Machine Learning*](English_Textbook/A-Concise-Introduction-to-Machine-Learning.zip) <br>
 * [*Data Mining Practical Machine Learning Tools and Techniques* 3rd Edition（经典Weka书）](English_Textbook/Data-Mining-Practical-Machine-Learning-Tools-and-Techniques-3rd-Edition.zip) <br>
-* [*Pattern Recognition* 4th Edition](English_Textbook/Pattern-Recognition-4th-Edition.zip) <br>
-
+* [*Pattern Recognition and Machine Learning* 4th Edition](English_Textbook/Pattern-Recognition-4th-Edition.zip) <br>
+* [*Pattern Recognition and Machine Learning* 4th Edition Github python程序实现](https://github.com/ctgk/PRML)<br>
 ### 补充数学基础辅助阅读教材_
 * [*Mathematics for Machine Learning*](English_Textbook/Mathematics-for-Machine-Learning.zip) <br>
 * [*The Matrix Cookbook*](English_Textbook/The-Matrix-Cookbook.zip) <br>
@@ -25,7 +25,7 @@
 ## 3. 教学大纲
 课时 | 内容 | 课件 | 阅读材料 | 作业
 ---|---|---|---|---
-课时-1| 绪论 | [课件1](课件/课件1.zip) | [斯坦福Andrew课程-阅读材料](阅读材料/课程1-阅读材料/斯坦福Andrew课程-阅读材料.zip) <br> [Nature-Review-阅读材料](阅读材料/课程1-阅读材料/Nature-Review-阅读资料.zip) <br> [美国医学学会杂志-阅读资料](阅读材料/课程1-阅读材料/美国医学学会杂志-阅读资料.zip) <br>[其他阅读材料](阅读材料/课程1-阅读材料/其他阅读材料.zip) | 
+课时-1| 绪论 | [课件1](课件/课件1.zip) | [斯坦福Andrew ng课程-阅读材料](阅读材料/课程1-阅读材料/斯坦福Andrew课程-阅读材料.zip) <br> [Nature-Reviews-Genetics-阅读材料](阅读材料/课程1-阅读材料/Nature-Review-阅读资料.zip) <br> [美国医学学会杂志-阅读资料](阅读材料/课程1-阅读材料/美国医学学会杂志-阅读资料.zip) <br>[其他阅读材料](阅读材料/课程1-阅读材料/其他阅读材料.zip) | 
 课时-2| 线性代数与概率论 | [课件2](课件/课件2.zip) | [斯坦福Andrew课程-阅读材料](阅读材料/课程2-阅读材料/斯坦福Andrew课程-阅读材料.zip) <br> [NBT Primer阅读材料](阅读材料/课程2-阅读材料/NBT-Primer阅读材料.zip) <br> [Nature Methods阅读材料](阅读材料/课程2-阅读材料/Nature-Methods阅读材料.zip) <br> [其他阅读材料](阅读材料/课程2-阅读材料/其他阅读材料.zip) |
 课时-3| 线性回归 | [课件3](课件/课件3.zip) | [斯坦福Andrew课程-阅读材料](阅读材料/课程3-阅读材料/斯坦福Andrew课程-阅读材料.zip) | [课程3-作业](作业/课程3-作业.zip)
 课时-4| 逻辑回归与正则化 | [课件4](课件/课件4.zip) | [斯坦福Andrew课程-阅读材料](阅读材料/课程4-阅读材料/斯坦福Andrew课程-阅读材料.zip) | [课程4-作业](作业/课程4-作业.zip)
