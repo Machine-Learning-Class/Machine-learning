@@ -20,7 +20,7 @@
 * [*Data Mining Practical Machine Learning Tools and Techniques* 3rd Edition（经典Weka书）](English_Textbook/Data-Mining-Practical-Machine-Learning-Tools-and-Techniques-3rd-Edition.zip) <br>
 * [*Pattern Recognition and Machine Learning* 4th Edition](English_Textbook/Pattern-Recognition-4th-Edition.zip) <br>
 * [*Pattern Recognition and Machine Learning* 4th Edition Github python程序实现](https://github.com/ctgk/PRML)<br>
-### 补充数学基础辅助阅读教材_
+### 补充数学基础辅助阅读教材
 * [*Mathematics for Machine Learning*](English_Textbook/Mathematics-for-Machine-Learning.zip) <br>
 * [*The Matrix Cookbook*](English_Textbook/The-Matrix-Cookbook.zip) <br>
 
