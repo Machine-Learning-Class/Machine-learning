@@ -25,7 +25,7 @@
 * [*The Matrix Cookbook*](English_Textbook/The-Matrix-Cookbook.zip) <br>
 
 ## 3. 教学大纲
-课时 | 内容 | 课件 | 阅读材料 | 作业
+<div style="width:100px">课时</div> | 内容 | 课件 | 阅读材料 | 作业
 ----|----|----|----|----
 课时-1| 绪论 | [课件1](课件/课件1.zip) | [斯坦福Andrew ng课程-阅读材料](阅读材料/课程1-阅读材料/斯坦福Andrew课程-阅读材料.zip) <br> [Nature-Reviews-Genetics-阅读材料](阅读材料/课程1-阅读材料/Nature-Review-阅读资料.zip) <br> [美国医学学会杂志-阅读资料](阅读材料/课程1-阅读材料/美国医学学会杂志-阅读资料.zip) <br>[机器学习学术人物关系](阅读材料/课程1-阅读材料/机器学习人物关系.zip)<br>[其他阅读材料](阅读材料/课程1-阅读材料/其他阅读材料.zip) | 
 课时-2| 线性代数与概率论一堂课总结 | [课件2](课件/课件2.zip) | [斯坦福Andrew ng课程-阅读材料](阅读材料/课程2-阅读材料/斯坦福Andrew课程-阅读材料.zip) <br> [NBT Primer阅读材料](阅读材料/课程2-阅读材料/NBT-Primer阅读材料.zip) <br> [Nature Methods阅读材料](阅读材料/课程2-阅读材料/Nature-Methods阅读材料.zip) <br> [其他阅读材料](阅读材料/课程2-阅读材料/其他阅读材料.zip) <br>[一个awesome统计可视化网站](https://www.automaticstatistician.com/index/)|
