@@ -55,11 +55,11 @@ kaggle: https://www.kaggle.com/competitions <br>
 Grokking Deep Learning | https://livebook.manning.com/#!/book/grokking-deep-learning <br> https://github.com/iamtrask/Grokking-Deep-Learning                          
 Machine Learning Yearning | https://deeplearning-ai.github.io/machine-learning-yearning-cn/
 MIT面向生命科学的深度学习课程 | https://mit6874.github.io/
-中国大学MOOC-北京理工机器学习课程 | http://www.icourse163.org/course/BIT-1449601164 
+中国大学MOOC-北京理工大学机器学习课程 | http://www.icourse163.org/course/BIT-1449601164 
 多伦多大学机器学习 | https://amfarahmand.github.io/csc311/ 
-交互式线性代数 |  http://textbooks.math.gatech.edu/ila/index.html
 台湾李宏毅机器学习 |  https://github.com/datawhalechina/leeml-notes
 复旦大学邱锡鹏深度学习 |  https://nndl.github.io/
+佐治亚理工大学交互式线性代数 |  http://textbooks.math.gatech.edu/ila/index.html
 
 ## 6. 主讲人科普链接
 
