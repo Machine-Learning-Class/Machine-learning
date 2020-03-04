@@ -61,5 +61,13 @@ MIT面向生命科学的深度学习课程 | https://mit6874.github.io/
 台湾李宏毅机器学习 |  https://github.com/datawhalechina/leeml-notes
 复旦大学邱锡鹏深度学习 |  https://nndl.github.io/
 
+## 6. 主讲人科普链接
+
+[人工智能应用于新药研发的范式转变](https://mp.weixin.qq.com/s/Jo6meVR1VGamXJX0koGUqg), 知识分子公众号科普, 2018.
+
+[化学界诞生了一个“AlphaGO"](https://mp.weixin.qq.com/s?__biz=MzIyNDA2NTI4Mg==&mid=2655422772&idx=1&sn=bd500ac05a447c1d94616beb537f5211&chksm=f3a68b59c4d1024ff059cb780b432bcd44bbc18b379e437a92320f6aed95af2f115a161c8147&scene=21#wechat_redirect), 知识分子公众号科普, 2018.
+
+[生物信息学研究的思考](https://www.ccf.org.cn/c/2016-12-01/550967.shtml), 中国计算机学会通讯（CCCF）, 12（10）, 2016.
+
 ## 6. 联系方式
 刘琦 email：qiliu@tongji.edu.cn
