@@ -17,6 +17,7 @@
 * [*A Concise Introduction to Machine Learning*](English_Textbook/A-Concise-Introduction-to-Machine-Learning.zip) <br>
 * [*Data Mining Practical Machine Learning Tools and Techniques* 3rd Edition（经典Weka书）](English_Textbook/Data-Mining-Practical-Machine-Learning-Tools-and-Techniques-3rd-Edition.zip) <br>
 * [*Pattern Recognition* 4th Edition](English_Textbook/Pattern-Recognition-4th-Edition.zip) <br>
+
 __补充数学基础辅助阅读教材__
 * [*Mathematics for Machine Learning*](English_Textbook/Mathematics-for-Machine-Learning.zip) <br>
 * [*The Matrix Cookbook*](English_Textbook/The-Matrix-Cookbook.zip) <br>
