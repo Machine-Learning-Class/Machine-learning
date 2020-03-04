@@ -38,12 +38,12 @@
 课时-11| 深度学习 | [课件11](课件/课件11.zip) | [Nature Review阅读材料](阅读材料/课程11-阅读材料/Nature-Review阅读材料.zip) <br> [Nature Genetics阅读材料](阅读材料/课程11-阅读材料/Nature-Genetics阅读材料.zip) <br> [NBT Primer阅读材料](阅读材料/课程11-阅读材料/NBT-Primer阅读材料.zip) <br> [其他阅读材料](阅读材料/课程11-阅读材料/其他阅读材料.zip)
 课时-12| 聚类算法 | [课件12](课件/课件12.zip) | [斯坦福Andrew ng课程-阅读材料](阅读材料/课程12-阅读材料/斯坦福Andrew课程-阅读材料.zip) <br> [NBT Primer阅读材料](阅读材料/课程12-阅读材料/NBT-Primer阅读材料.zip) <br> [Nature Methods阅读材料](阅读材料/课程12-阅读材料/Nature-Methods阅读材料.zip) <br> [其他阅读材料](阅读材料/课程12-阅读材料/其他阅读材料.zip)
 课时-13| 降维算法 | [课件13](课件/课件13.zip) | [斯坦福Andrew ng课程-阅读材料](阅读材料/课程13-阅读材料/斯坦福Andrew课程-阅读材料.zip) <br> [NBT Primer阅读材料](阅读材料/课程13-阅读材料/NBT-Primer阅读材料.zip) <br> [Nature Neuroscience阅读材料](阅读材料/课程13-阅读材料/Nature-Neuroscience阅读材料.zip) | [课程13-作业](作业/课程13-作业.zip)
-课时-14| 异常检测与推荐系统　| [课件14](课件/课件14.zip) | [阅读材料]() | [课程14-作业](作业/课程14-作业.zip)
+课时-14| 异常检测与推荐系统　| [课件14](课件/课件14.zip) | [张量简介](阅读材料/课程14-阅读材料/tensor.zip) | [课程14-作业](作业/课程14-作业.zip)
 课时-15| 机器学习的应用，系统设计 <br> 大规模机器学习 <br>集成学习 | [课件15](课件/课件15.zip)
 
 ## 4. 机器学习竞赛网站
 Dream Challenge: http://dreamchallenges.org/ <br>
-kaggle：https://www.kaggle.com/competitions <br>
+kaggle: https://www.kaggle.com/competitions <br>
 
 ## 5. 推荐网课链接
 课程名称 | 课程链接
