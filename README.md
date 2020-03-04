@@ -25,13 +25,6 @@
 * [*The Matrix Cookbook*](English_Textbook/The-Matrix-Cookbook.zip) <br>
 
 ## 3. 教学大纲
-
-<style>
-table th:first-of-type {
-	width: 100px;
-}
-</style>
-
  课     时  | 内 容 | 课 件 | 阅读材料 | 作 业
 ----|----|----|----|----
 课时-1| 绪论 | [课件1](课件/课件1.zip) | [斯坦福Andrew ng课程-阅读材料](阅读材料/课程1-阅读材料/斯坦福Andrew课程-阅读材料.zip) <br> [Nature-Reviews-Genetics-阅读材料](阅读材料/课程1-阅读材料/Nature-Review-阅读资料.zip) <br> [美国医学学会杂志-阅读资料](阅读材料/课程1-阅读材料/美国医学学会杂志-阅读资料.zip) <br>[机器学习学术人物关系](阅读材料/课程1-阅读材料/机器学习人物关系.zip)<br>[其他阅读材料](阅读材料/课程1-阅读材料/其他阅读材料.zip) | 
