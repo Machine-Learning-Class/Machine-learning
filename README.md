@@ -69,5 +69,5 @@ MIT面向生命科学的深度学习课程 | https://mit6874.github.io/
 
 [生物信息学研究的思考](https://www.ccf.org.cn/c/2016-12-01/550967.shtml), 中国计算机学会通讯（CCCF）, 12（10）, 2016.
 
-## 6. 联系方式
+## 7. 联系方式
 刘琦 email：qiliu@tongji.edu.cn
