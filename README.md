@@ -71,7 +71,7 @@ MIT面向生命科学的深度学习课程 | https://mit6874.github.io/
 
 [生物信息学研究的思考](https://www.ccf.org.cn/c/2016-12-01/550967.shtml), 中国计算机学会通讯（CCCF）, 12（10）, 2016.
 
-[琦言药语 公众号] ![image] (https://github.com/Machine-Learning-Class/Machine-learning/blob/master/%E9%98%85%E8%AF%BB%E6%9D%90%E6%96%99/%E7%90%A6%E8%A8%80%E8%8D%AF%E8%AF%AD%E5%85%AC%E4%BC%97%E5%8F%B7.jpg)
+琦言药语 公众号 ![image](https://github.com/Machine-Learning-Class/Machine-learning/blob/master/%E9%98%85%E8%AF%BB%E6%9D%90%E6%96%99/%E7%90%A6%E8%A8%80%E8%8D%AF%E8%AF%AD%E5%85%AC%E4%BC%97%E5%8F%B7.jpg)
 
 ## 7. 联系方式
 刘琦 email：qiliu@tongji.edu.cn
