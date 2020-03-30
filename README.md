@@ -61,6 +61,7 @@ MIT面向生命科学的深度学习课程 | https://mit6874.github.io/
 多伦多大学机器学习 | https://amfarahmand.github.io/csc311/ 
 台湾李宏毅机器学习 |  https://github.com/datawhalechina/leeml-notes
 复旦大学邱锡鹏深度学习 |  https://nndl.github.io/
+普林斯顿大学NLP课程 |  https://www.cs.princeton.edu/courses/archive/spring20/cos598C/
 佐治亚理工大学交互式线性代数 |  http://textbooks.math.gatech.edu/ila/index.html
 
 ## 6. 主讲人科普链接
